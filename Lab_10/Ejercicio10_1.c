@@ -2,9 +2,9 @@
 #include<string.h>
 
 // Cree un programa en C que permita ingresar el nombre, primer
-// apellido y segundo apellido de una persona. La información ingresada
+// apellido y segundo apellido de una persona. La informaciÃ³n ingresada
 // debe ser validada, es decir, no se deben permitir nombres con
-// caracteres no alfabéticos (exceptuando el “espacio” como en los
+// caracteres no alfabÃ©ticos (exceptuando el â€œespacioâ€ como en los
 // apellidos San Martin, van Baster, van der Sar, etc)
 
 int main()
