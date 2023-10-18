@@ -46,9 +46,10 @@ int validarUsuario(char palabra[], int largo)
 		// Valida caracteres "-", ".", "_" respectivamente.
 		if (palabra[i] != 45 && palabra[i] != 46 && palabra[i] != 95)
 		{
-			// Valida letras minusculas y mayusculas.
+			// Valida letras minusculas, mayusculas y numeros.
 			if (
-				(palabra[i] < 65) || (palabra[i] > 122) || 
+				(palabra[i] < 48) || (palabra[i] > 122) || 
+				(palabra[i] > 57 && palabra[i] < 65) ||
 				(palabra[i] > 90 && palabra[i] < 97)
 				)
 				return 0; // Devuelve falso (cadena invalida)
