@@ -4,17 +4,17 @@
 // Cree un programa que permita ingresar una N cantidad de usuarios (datos de usuarios:
 // nombre completo, nombre usuario, clave, edad) y luego realice las siguientes acciones:
 // 	a. Mostrar todos los datos de los usuarios
-// 	b. Buscar la informaciÛn de un usuario por nombre de usuario
-// 	c. Mostrar la informaciÛn de todos los usuarios que tiene una edad igual a X
+// 	b. Buscar la informaci√≥n de un usuario por nombre de usuario
+// 	c. Mostrar la informaci√≥n de todos los usuarios que tiene una edad igual a X
 // 	   (ingresada por teclado)
 //
 // Consideraciones:
-// - Para acceder a la informaciÛn de los puntos a, b y c, se debe implementar
-//   un ìloginî de acceso.
+// - Para acceder a la informaci√≥n de los puntos a, b y c, se debe implementar
+//   un ‚Äúlogin‚Äù de acceso.
 // - Los datos ingresados deben estar validados
-// - Para facilitar el registro de informaciÛn, las letras deben ser almacenadas en
-//   may˙sculas, es decir, si se ingresa alguna letra en min˙scula, su programa
-//   deber· transformarla a may˙sculas.
+// - Para facilitar el registro de informaci√≥n, las letras deben ser almacenadas en
+//   may√∫sculas, es decir, si se ingresa alguna letra en min√∫scula, su programa
+//   deber√° transformarla a may√∫sculas.
 
 // PENDIENTE PUNTOS b y c.
 
@@ -163,7 +163,7 @@ int validarUsuario(char palabra[], int largo)
 }
 
 // Valida que el valor ingresado corresponda a una edad valida.
-// Valores estandar: 0 a 125 aÒos.
+// Valores estandar: 0 a 125 a√±os.
 // Devuelve 1 como verdadero (cadena valida)
 // Devuelve 0 como falso (cadena invalida)
 int validarEdad(int e)
