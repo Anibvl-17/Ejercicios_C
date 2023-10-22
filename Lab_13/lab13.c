@@ -426,7 +426,7 @@ int validarUsuario(char palabra[], int largo)
 }
 
 // Valida que el valor ingresado corresponda a una edad valida.
-// Valores estandar: 0 a 125 años.
+// Valores estandar: 0 a 125 aÃ±os.
 // Devuelve 1 como verdadero (edad valida) y devuelve 0 como falso (edad invalida)
 int validarEdad(int e)
 {	
