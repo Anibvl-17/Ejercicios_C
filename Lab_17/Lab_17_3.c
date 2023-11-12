@@ -85,7 +85,6 @@ void carga(int *C1, int *C2, int *C3, int carga_total)
 
 int ingresar_carga()
 {
-	
 	int n, flag;
 	
 	do {
