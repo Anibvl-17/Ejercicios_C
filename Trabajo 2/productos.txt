@@ -1,0 +1,15 @@
+audifonos_jbl_inalambricos jbl accesorio_musica 5000 15000 10 5 
+Guitarra_electroacustica_nylontakamine takamine instrumentos_musicales 100000 350000 20 7 
+poleron_kanguro adidas ropa_deportiva 2000 30000 45 23 
+zapatilla_tennis rebook ropa_deportiva 12000 47990 30 12 
+pelota_de_basketball spalding implemento_deportivo 5000 16990 9 4 
+camiseta_seleccion_chilena puma ropa_deportiva 4500 39990 78 23 
+cortaviento nike ropa_deportiva 23000 67000 33 9 
+perfume_varon hugo_boss perfumeria 23000 89990 67 26 
+perfume_mujer dior perfumeria 34000 109990 45 34 
+ipad_pro apple computacion 200000 899990 56 19 
+iphone_15_pro apple computacion 390000 1290990 50 29 
+asus_rog_16 asus computaci¢n 300000 798990 10 3 
+camisa_rayas polo ropa_masculina 3900 38990 49 38 
+nintendo_switch_oled nintendo consola_videojuegos 189990 476990 198 57 
+play_station_6 sony consola_videojuegos 300000 899990 48 45 

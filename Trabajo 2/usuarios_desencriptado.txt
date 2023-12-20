@@ -1,0 +1,9 @@
+TIPO   | USUARIO | KEY | CLAVE      | NOMBRE                     | EDAD
+---------------------------------------------------------------------------
+ADMIN  | as9     | 7   | 12345      | Alexis Sanchez Sanchez     | 34 
+NORMA  | Myri    | 2   | hola       | Myriam Hernandez Hernandez | 45
+ADMIN  | gokusjj | 10  | kamehameha | goku son bardok            | 56
+NORMAL | fede    | 6   | alca       | Federico Valdivieso Lara   | 67
+NORMAL | manu    | 8   | 9876       | Manuel Rodriguez Erdoiza   | 34
+NORMAL | arthur  | 2   | barco      | Arturo Pratt Chacon        | 33
+ADMIN  | itsme   | 2   | mammamiaa  | Mario Mario Bross	         | 44
